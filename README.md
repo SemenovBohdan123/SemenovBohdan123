@@ -1,7 +1,9 @@
-<h1 align="center">Привет 👋, меня зовут Богдан</h1>
-<h3 align="center">Целевой Front-end разработчик с 1-летним опытом работы в различных ролях и фреймворках. Коммуникабельный член команды и высокоэффективный человек в работе и личной жизни. Мне нравится учиться и создавать новые увлекательные проекты.</h3>
+<h1 align="center">Hi 👋, my name is Bohdan</h1>
+<h3 align="center">Goal-oriented Front-end developer with 4 years experience in different roles and frameworks.
+Communicative team member and higly efficient person in work and personal life. I engoy leraning and
+building new captivating projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semenovbohdan123&label=Profile%20views&color=0e75b6&style=flat" alt ="semenovbohdan123" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=semenovbohdan123&label=Profile%20views&color=0e75b6&style=flat](https://prnt.sc/dADOCWj0HT-0)" alt ="semenovbohdan123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https:/ /github-profile-trophy.vercel.app/?username=semenovbohdan123" alt="semenovbohdan123" /></a> </p>
 
