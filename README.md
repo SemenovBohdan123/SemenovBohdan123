@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">Goal-oriented Front-end developer with 1.5 years experience in different roles and frameworks. Communicative team member and higly efficient person in work and personal life. I engoy leraning and building new captivating projects.</div>  
+### <div align="center">Experienced front-end developer with a year of experience in various frameworks. Outgoing team member and enthusiastic learner. Future goal is to become a confident full-stack developer. In free time, studying node js and creating interesting projects like paint online with Next.js</div>  
   
 
 - 🔭 I’m currently working on [Github Paint Online](https://github.com/SemenovBohdan123/paint-online-front)  
