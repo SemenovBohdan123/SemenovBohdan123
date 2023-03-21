@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">Goal-oriented Front-end developer with 1 years experience in different roles and frameworks. Communicative team member and higly efficient person in work and personal life. I engoy leraning and building new captivating projects.</div>  
+### <div align="center">Goal-oriented Front-end developer with 1.5 years experience in different roles and frameworks. Communicative team member and higly efficient person in work and personal life. I engoy leraning and building new captivating projects.</div>  
   
 
 - 🔭 I’m currently working on [Github Paint Online](https://github.com/SemenovBohdan123/paint-online-front)  
